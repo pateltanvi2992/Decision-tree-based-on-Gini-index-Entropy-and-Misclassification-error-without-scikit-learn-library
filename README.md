@@ -6,6 +6,8 @@
   <b>Example to run the python file : </b> 
   python wine_quality_prediction.py --dataset dataset_path
   
+<img src = './Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-error-without-scikit-learn-library/Tree.png'>
+
   
 
 <b>REFERENCES :</b>
