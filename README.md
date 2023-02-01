@@ -6,10 +6,11 @@
   <b>Example to run the python file : </b> 
   python wine_quality_prediction.py --dataset dataset_path
   
-<img src = './Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-error-without-scikit-learn-library/Tree.png'>
-
-  
-
+  <b>Outputs : </b>
+  <p>tree from python code</p>
+  <img src = 'https://raw.githubusercontent.com/pateltanvi2992/Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-error-without-scikit-learn-library/main/Tree.PNG' height = 500 width = 500>
+  <p> Heatmap diagram </p>
+   <img src = 'https://raw.githubusercontent.com/pateltanvi2992/Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-error-without-scikit-learn-library/main/heatmap_wine_data.png' height = 500 width = 500>
 <b>REFERENCES :</b>
 <ul>
 <li> [1] I. Janszky, M. Ericson, M. Blom, A. Georgiades, J. O. Magnusson, H. Alinagizadeh, and S. Ahnve, “Wine drinking is associated with increased heart rate variability in women with coronary heart disease,” Heart, 91(3), pp.314-318, 2005. </li>
