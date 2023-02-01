@@ -1,7 +1,9 @@
 # Decision tree based wine quality prediction using Gini index, Entropy and misclassification error without Scikit learn library 
 > Decision trees have been found very effective for classification especially in Data Mining. A particular efficient method for classification is the decision tree. The selection of the attribute used at each node of the tree to split the data is crucial in order to correctly classify objects. A split in a decision tree corresponds to the predictor with the maximum separating power. In other words, the best split does the best job in creating nodes where a single class dominates. There are several methods of calculating the predictor's power to separate data. To predict a wine quality here we use the datasets related to red variants of the Portuguese "Vinho Verde" wine. The dataset describes the amount of various chemicals present in wine and their effect on it's quality. . In this study, we have proposed an enhanced version of distributed decision tree algorithm using Gini index, entropy, and misclassification to perform better in terms of model building time without compromising the accuracy. The most significant thing to note here is that we did not use the Scikit Learn library in this project. If you want to use this code, you may also dynamically load any datasets. Additionally, divide the tree depending on the characteristic with the highest information gain and Gini gain by using gain ratio and Gini gain.
 # How to run 
-  Dataset URL : https://raw.githubusercontent.com/pateltanvi2992/Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-   error-without-scikit-learn-           library/main/WineQT.csv 
+  Dataset URL : https://raw.githubusercontent.com/pateltanvi2992/Decision-tree-based-on-Gini-index-Entropy-and-Misclassification-error-without-scikit-learn-library/main/WineQT.csv 
+  
+  <b>Example to run the python file : </b> 
   python wine_quality_prediction.py --dataset dataset_path
   
   
