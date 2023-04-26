@@ -1,0 +1,1 @@
+Decision tree based wine quality prediction using Gini index, Entropy and misclassification error without Scikit learn library.
